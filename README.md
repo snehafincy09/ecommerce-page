@@ -2,7 +2,7 @@
 
 A fully responsive flower e-commerce website built from scratch with HTML and CSS — featuring a warm maroon, cream, and gold aesthetic designed to feel boutique and editorial rather than templated.
 
-**[Live Demo] https://snehafincy09.github.io/E-commerce-Page/** 
+**Live Demo https://snehafincy09.github.io/E-commerce-Page/** 
 
 ---
 
@@ -14,9 +14,9 @@ This project was built as a way to go deeper than basic layout practice: deliber
 
 ## Features
 
-- **Custom design system** — a maroon (`#260707`), cream (`#FBF6EF`), and gold color palette applied consistently across every section
+- **Custom design system** — maroon , cream , and gold color palette applied consistently across every section
 - **18 product cards** across 3 categories (Bouquets, Plants, Gifts), each with image, name, description, price, and an "Add to Cart" action
-- **Video hero section** with gradient overlay and smooth-scroll anchor navigation
+- **Video homme section** with gradient overlay and smooth-scroll anchor navigation
 - **Micro-interactions** — hover scale effects, color transitions, and shadow lifts on buttons and cards
 - **Accessibility-conscious** — visible focus states on all interactive elements, semantic HTML structure
 - **Fully responsive** — two custom breakpoints (tablet: 768px, mobile: 480px) restructuring grid columns, navigation, typography scale, and spacing for every screen size
