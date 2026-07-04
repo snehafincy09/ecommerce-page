@@ -272,10 +272,7 @@ figure {
         flex-wrap: wrap;
         padding: 15px 10px;
     }
-    .nav-links {
-        flex-wrap: wrap;
-    }
-    .nav-links{
+   .nav-links {
         margin-left: 0;
         margin-right: 0;
         display: flex;
